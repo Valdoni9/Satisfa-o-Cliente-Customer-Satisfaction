@@ -4,10 +4,6 @@ Este plugin para GLPI permite gerenciar a satisfação do cliente no momento do 
 
 Automaticamente muda para a aba Satisfação assim que o cliente aprova o fechamento do chamado. / Automatically switches to the Satisfaction tab once the customer approves the ticket closure.
 
-## Exemplo
-
-![Exemplo de uso do plugin](https://i.imgur.com/WjX8h7b.gif)
-
 ## Funcionalidades
 
 - Alteração automática do status do chamado para "Satisfação" após aprovação do cliente
@@ -15,7 +11,7 @@ Automaticamente muda para a aba Satisfação assim que o cliente aprova o fecham
 - Controle de satisfação do cliente no processo de encerramento
 
 ## Exemplo
-[Veja o exemplo em vídeo]![2025-05-28 19-54-44](https://github.com/user-attachments/assets/fc1c3cc8-68ae-4522-8273-60638c7f00f8)
+[2025-05-28 19-54-44](https://github.com/user-attachments/assets/fc1c3cc8-68ae-4522-8273-60638c7f00f8)
 
 
 
