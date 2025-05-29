@@ -15,7 +15,8 @@ Automaticamente muda para a aba Satisfação assim que o cliente aprova o fecham
 - Controle de satisfação do cliente no processo de encerramento
 
 ## Exemplo
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/WjX8h7b"  ><a href="//imgur.com/a/WjX8h7b"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[Veja o exemplo em vídeo]![2025-05-28 19-54-44](https://github.com/user-attachments/assets/fc1c3cc8-68ae-4522-8273-60638c7f00f8)
+
 
 
 ## Requisitos
