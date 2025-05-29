@@ -6,13 +6,16 @@ Automaticamente muda para a aba Satisfação assim que o cliente aprova o fecham
 
 ## Exemplo
 
-![Exemplo de uso do plugin](https://github.com/user-attachments/assets/fc1c3cc8-68ae-4522-8273-60638c7f00f8)
+![Exemplo de uso do plugin](https://i.imgur.com/WjX8h7b.gif)
 
 ## Funcionalidades
 
 - Alteração automática do status do chamado para "Satisfação" após aprovação do cliente
 - Integração com o fluxo de fechamento de chamados do GLPI
 - Controle de satisfação do cliente no processo de encerramento
+
+## Exemplo
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/WjX8h7b"  ><a href="//imgur.com/a/WjX8h7b"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 ## Requisitos
