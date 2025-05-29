@@ -10,6 +10,13 @@ Automaticamente muda para a aba Satisfação assim que o cliente aprova o fecham
 - Integração com o fluxo de fechamento de chamados do GLPI
 - Controle de satisfação do cliente no processo de encerramento
 
+## Exemplo
+
+
+
+https://github.com/user-attachments/assets/b43b18a0-9261-48bb-b2ba-928bec96356b
+
+
 ## Requisitos
 
 - GLPI 10.0 ou superior
